@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SE401\\Memento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57388D15-5D39-4A9C-8C4F-0FAB37110A09}|Memento\\Memento.csproj|f:\\se401\\memento\\memento\\originator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57388D15-5D39-4A9C-8C4F-0FAB37110A09}|Memento\\Memento.csproj|solutionrelative:memento\\originator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57388D15-5D39-4A9C-8C4F-0FAB37110A09}|Memento\\Memento.csproj|f:\\se401\\memento\\memento\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57388D15-5D39-4A9C-8C4F-0FAB37110A09}|Memento\\Memento.csproj|solutionrelative:memento\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57388D15-5D39-4A9C-8C4F-0FAB37110A09}|Memento\\Memento.csproj|f:\\se401\\memento\\memento\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57388D15-5D39-4A9C-8C4F-0FAB37110A09}|Memento\\Memento.csproj|solutionrelative:memento\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57388D15-5D39-4A9C-8C4F-0FAB37110A09}|Memento\\Memento.csproj|f:\\se401\\memento\\memento\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57388D15-5D39-4A9C-8C4F-0FAB37110A09}|Memento\\Memento.csproj|solutionrelative:memento\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "F:\\SE401\\Memento\\Memento\\Client.cs",
+              "RelativeDocumentMoniker": "Memento\\Client.cs",
+              "ToolTip": "F:\\SE401\\Memento\\Memento\\Client.cs",
+              "RelativeToolTip": "Memento\\Client.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T01:07:38.984Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Caretaker.cs",
+              "DocumentMoniker": "F:\\SE401\\Memento\\Memento\\Caretaker.cs",
+              "RelativeDocumentMoniker": "Memento\\Caretaker.cs",
+              "ToolTip": "F:\\SE401\\Memento\\Memento\\Caretaker.cs",
+              "RelativeToolTip": "Memento\\Caretaker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T01:07:27.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Originator.cs",
+              "DocumentMoniker": "F:\\SE401\\Memento\\Memento\\Originator.cs",
+              "RelativeDocumentMoniker": "Memento\\Originator.cs",
+              "ToolTip": "F:\\SE401\\Memento\\Memento\\Originator.cs",
+              "RelativeToolTip": "Memento\\Originator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T01:06:59.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Memento.cs",
+              "DocumentMoniker": "F:\\SE401\\Memento\\Memento\\Memento.cs",
+              "RelativeDocumentMoniker": "Memento\\Memento.cs",
+              "ToolTip": "F:\\SE401\\Memento\\Memento\\Memento.cs",
+              "RelativeToolTip": "Memento\\Memento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T01:06:46.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 167,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

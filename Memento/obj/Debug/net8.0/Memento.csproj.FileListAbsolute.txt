@@ -1,0 +1,14 @@
+F:\SE401\Memento\Memento\bin\Debug\net8.0\Memento.exe
+F:\SE401\Memento\Memento\bin\Debug\net8.0\Memento.deps.json
+F:\SE401\Memento\Memento\bin\Debug\net8.0\Memento.runtimeconfig.json
+F:\SE401\Memento\Memento\bin\Debug\net8.0\Memento.dll
+F:\SE401\Memento\Memento\bin\Debug\net8.0\Memento.pdb
+F:\SE401\Memento\Memento\obj\Debug\net8.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+F:\SE401\Memento\Memento\obj\Debug\net8.0\Memento.AssemblyInfoInputs.cache
+F:\SE401\Memento\Memento\obj\Debug\net8.0\Memento.AssemblyInfo.cs
+F:\SE401\Memento\Memento\obj\Debug\net8.0\Memento.csproj.CoreCompileInputs.cache
+F:\SE401\Memento\Memento\obj\Debug\net8.0\Memento.dll
+F:\SE401\Memento\Memento\obj\Debug\net8.0\refint\Memento.dll
+F:\SE401\Memento\Memento\obj\Debug\net8.0\Memento.pdb
+F:\SE401\Memento\Memento\obj\Debug\net8.0\Memento.genruntimeconfig.cache
+F:\SE401\Memento\Memento\obj\Debug\net8.0\ref\Memento.dll
